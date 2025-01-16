@@ -1,0 +1,6 @@
+Basics of function i already know...
+1.What is a function?
+2.What are types of it?
+3.Defining a function(two ways,1.prototype and definition and 2.definition)
+4.Calling a function
+Few things which i need to brushup are in this file so go on check them out...
